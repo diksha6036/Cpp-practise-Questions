@@ -1,3 +1,4 @@
+//to print the sum of 2 numbers
 #include <iostream>
 using namespace std;
 int main(){
@@ -11,6 +12,6 @@ int main(){
      int c=a+b;
      cout<<c <<endl;
 
-    
-    
+
+
 }
